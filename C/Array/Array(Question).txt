@@ -1,0 +1,29 @@
+Array
+
+1D array
+
+
+1. Write a program to accept n numbers in an array and display the largest and smallest number. Using 
+these values, calculate the range of elements in the array.
+2. Write a program to accept an array of n elements and a number say key. Check whether key is present 
+in the array or not.
+3. Write a program to accept an integer array and an integer say num and counts the occurrences of the 
+num in the array.
+4. Write a program to accept n numbers from the user and store them in an array. Then sort the array in 
+descending order and display it.
+5. Write a program to accept a decimal number and convert it to binary.
+
+
+
+2D array
+
+
+1. Write a program to accept, display and print the sum of elements of each row and sum of elements of 
+each column of a matrix.
+2. Write a program to accept a matrix A of size mXn and store its transpose in matrix B. Display matrix B. 
+3. Write a program to add and multiply two matrices. Perform necessary checks before adding and 
+multiplying the matrices.
+4. Write a program to perform the following operations on a square matrix. Write 
+i) Check if the matrix is symmetric.
+ii) Display the trace of the matrix (sum of diagonal elements). 
+iii) Check if the matrix is an upper triangular matrix.
