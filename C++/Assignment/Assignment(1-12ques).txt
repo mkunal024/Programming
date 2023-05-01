@@ -1,0 +1,101 @@
+1. Write a program to create student class with data members rollno, marks1, mark2, mark3.
+Accept data (acceptInfo()) and display using display member function.
+Also display total, percentage and grade.
+
+2. Create a class Person with data members as name, age, city. Write getters and setters for all the data 
+members. Also add the display function. Create Default and Parameterized constructors. Create the object 
+of this class in main method and invoke all the methods in that class.
+
+3. Create a class Date with data members as dd, mm, yy. Write getters and setters for all the data 
+members. Also add the display function. Create Default and Parameterized constructors. Create the 
+object of this class in main method and invoke all the methods in that class. 
+
+4. Create a class Book with data members as bname, id, author, price. Write getters and setters for all the 
+data members. Also add the display function. Create Default and Parameterized constructors. Create 
+the object of this class in main method and invoke all the methods in that class. 
+
+5. Create a class Point with data members as x,y. Create Default and Parameterized constructors. Write 
+getters and setters for all the data members. Also add the display function. Create the object of this 
+class in main method and invoke all the methods in that class. 
+
+6. Create a class ComplexNumber with data members real, imaginary. Create Default and Parameterized 
+constructors. Write getters and setters for all the data members. Also add the display function. Create 
+the object of this class in main method and invoke all the methods in that class.
+
+7. Create Date class with members day, month, year. Write no argument and parameterized constructor. 
+Create two object s and initialize them using no argument and parameterized constructor respectively. 
+Print date using display function.
+
+8. Create Employee class with members id(int),name(string),dob(Date).Use above created Date class. 
+Write default and parameterized constructor in Employee Class.Write accept () function to accept 
+information and display () to display emp information.
+
+9. Consider that payroll software needs to be developed for computerization of operations of an ABC 
+organization. The organization has employees.
+
+9.1. Construct a class Employee with following members using private access specifies:
+Employee Id integer
+Employee Name string
+Basic Salary double
+HRA double
+Medical double=1000
+PF double
+PT double
+Net Salary double
+Gross Salary double
+Please use following expressions for calculations: //Note: Don’t accept HRA,PF PT from user
+* HRA = 50% of Basic Salary
+* PF = 12% of Basic Salary
+* PT = Rs. 200
+
+9.2. Write methods to display the details of an employee and calculate the gross and net salary.
+* Goss Salary = Basic Salary + HRA + Medical
+* Net Salary = Gross Salary – (PT + PF)
+
+9.3 Create Object of employee class and assign values and display Details.
+
+10. Solve this.
+Fresh business scenario to apply inheritance , polymorphism to emp based organization scenario.
+Create Emp based organization structure --- Emp , Mgr , Worker
+
+10.1 Emp state--- id(int), name, deptId , basicSalary(double)
+Accept all of above in constructor arguments.
+Methods ---
+
+10.2. Compute net salary ---ret 0
+
+10.3 Mgr state ---id,name,basic,deptId , perfBonus
+Add suitable constructor
+Methods ----
+1. Compute net salary (formula: basic+perfBonus) -- override computeNetSalary
+
+10.4 Worker state --id,name,basic,deptId,hoursWorked,hourlyRate
+Methods:
+1. Compute net salary (formula: = basic+ (hoursWorked*hourlyRate) --override computeNetSalary
+2. Get hrlyRate of the worker -- add a new method to return hourly rate of a worker.(getter)
+Create suitable array to store organization details.
+Provide following options
+1. Hire Manager
+I/P : all manager details
+2. Hire Worker 
+I/P : all worker details
+3. Display information of all employees net salary (by invoking computeNetSal), 
+4. Exit
+----------------------------------------------------
+
+11. Create cpp application for bank account handling.
+
+11.1. Create a class BankAccount -- acct no(int),customer name(string),balance(double)
+Add constr. (2 constrs : first to accept all details )
+
+11.2 Add Business logic methods
+Methods
+public void withdraw(double amt) 
+public void deposit(double amt)
+
+11.3: Create object of account class and test withdraw and deposit methods.
+---------------------------------------------------------------------------------
+
+12. Create an abstract class Shape with pure virtual method area;
+Create Rectangle, Circle, Square class. Inherit them from Shape class. Override area method.
+Test these all classes by creating object of respective class.
