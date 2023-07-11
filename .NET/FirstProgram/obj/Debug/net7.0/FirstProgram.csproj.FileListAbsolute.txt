@@ -1,0 +1,15 @@
+G:\kunal\DotNet\practice\FirstProgram\bin\Debug\net7.0\FirstProgram.exe
+G:\kunal\DotNet\practice\FirstProgram\bin\Debug\net7.0\FirstProgram.deps.json
+G:\kunal\DotNet\practice\FirstProgram\bin\Debug\net7.0\FirstProgram.runtimeconfig.json
+G:\kunal\DotNet\practice\FirstProgram\bin\Debug\net7.0\FirstProgram.dll
+G:\kunal\DotNet\practice\FirstProgram\bin\Debug\net7.0\FirstProgram.pdb
+G:\kunal\DotNet\practice\FirstProgram\obj\Debug\net7.0\FirstProgram.csproj.AssemblyReference.cache
+G:\kunal\DotNet\practice\FirstProgram\obj\Debug\net7.0\FirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+G:\kunal\DotNet\practice\FirstProgram\obj\Debug\net7.0\FirstProgram.AssemblyInfoInputs.cache
+G:\kunal\DotNet\practice\FirstProgram\obj\Debug\net7.0\FirstProgram.AssemblyInfo.cs
+G:\kunal\DotNet\practice\FirstProgram\obj\Debug\net7.0\FirstProgram.csproj.CoreCompileInputs.cache
+G:\kunal\DotNet\practice\FirstProgram\obj\Debug\net7.0\FirstProgram.dll
+G:\kunal\DotNet\practice\FirstProgram\obj\Debug\net7.0\refint\FirstProgram.dll
+G:\kunal\DotNet\practice\FirstProgram\obj\Debug\net7.0\FirstProgram.pdb
+G:\kunal\DotNet\practice\FirstProgram\obj\Debug\net7.0\FirstProgram.genruntimeconfig.cache
+G:\kunal\DotNet\practice\FirstProgram\obj\Debug\net7.0\ref\FirstProgram.dll
