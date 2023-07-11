@@ -32,7 +32,7 @@ public class Employee{
 
 public override string ToString()
 {
-    string str=string.Format("{0}, {1}, {2}, {3}, {4}, {5}",empid,name,address,BasicSalary,HRA,DA);
+    string str=string.Format("{0}, {1}, {2}, {3}, {4}, {5}",empid,name,address,BasicSalary,HRA,DA,ComputePay());
     return str;
 }
 }
