@@ -1,0 +1,15 @@
+G:\kunal\DotNet\practice\Employee\Student\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+G:\kunal\DotNet\practice\Employee\Student\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\kunal\DotNet\practice\Employee\Student\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+G:\kunal\DotNet\practice\Employee\Student\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+G:\kunal\DotNet\practice\Employee\Student\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+G:\kunal\DotNet\practice\Employee\Student\DAL\bin\Debug\net7.0\DAL.deps.json
+G:\kunal\DotNet\practice\Employee\Student\DAL\bin\Debug\net7.0\DAL.dll
+G:\kunal\DotNet\practice\Employee\Student\DAL\bin\Debug\net7.0\DAL.pdb
+G:\kunal\DotNet\practice\Employee\Student\DAL\bin\Debug\net7.0\BOL.dll
+G:\kunal\DotNet\practice\Employee\Student\DAL\bin\Debug\net7.0\BOL.pdb
+G:\kunal\DotNet\practice\Employee\Student\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+G:\kunal\DotNet\practice\Employee\Student\DAL\obj\Debug\net7.0\DAL.dll
+G:\kunal\DotNet\practice\Employee\Student\DAL\obj\Debug\net7.0\refint\DAL.dll
+G:\kunal\DotNet\practice\Employee\Student\DAL\obj\Debug\net7.0\DAL.pdb
+G:\kunal\DotNet\practice\Employee\Student\DAL\obj\Debug\net7.0\ref\DAL.dll

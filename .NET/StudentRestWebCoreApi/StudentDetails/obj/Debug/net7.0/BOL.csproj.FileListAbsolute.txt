@@ -1,0 +1,12 @@
+G:\kunal\DotNet\practice\Employee\Student\StudentDetails\bin\Debug\net7.0\BOL.deps.json
+G:\kunal\DotNet\practice\Employee\Student\StudentDetails\bin\Debug\net7.0\BOL.dll
+G:\kunal\DotNet\practice\Employee\Student\StudentDetails\bin\Debug\net7.0\BOL.pdb
+G:\kunal\DotNet\practice\Employee\Student\StudentDetails\obj\Debug\net7.0\BOL.csproj.AssemblyReference.cache
+G:\kunal\DotNet\practice\Employee\Student\StudentDetails\obj\Debug\net7.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+G:\kunal\DotNet\practice\Employee\Student\StudentDetails\obj\Debug\net7.0\BOL.AssemblyInfoInputs.cache
+G:\kunal\DotNet\practice\Employee\Student\StudentDetails\obj\Debug\net7.0\BOL.AssemblyInfo.cs
+G:\kunal\DotNet\practice\Employee\Student\StudentDetails\obj\Debug\net7.0\BOL.csproj.CoreCompileInputs.cache
+G:\kunal\DotNet\practice\Employee\Student\StudentDetails\obj\Debug\net7.0\BOL.dll
+G:\kunal\DotNet\practice\Employee\Student\StudentDetails\obj\Debug\net7.0\refint\BOL.dll
+G:\kunal\DotNet\practice\Employee\Student\StudentDetails\obj\Debug\net7.0\BOL.pdb
+G:\kunal\DotNet\practice\Employee\Student\StudentDetails\obj\Debug\net7.0\ref\BOL.dll
