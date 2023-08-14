@@ -1,0 +1,15 @@
+D:\PG-DAC\DAC\Ms.NET\dotnet\Customer\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\PG-DAC\DAC\Ms.NET\dotnet\Customer\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\PG-DAC\DAC\Ms.NET\dotnet\Customer\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\PG-DAC\DAC\Ms.NET\dotnet\Customer\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\PG-DAC\DAC\Ms.NET\dotnet\Customer\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\PG-DAC\DAC\Ms.NET\dotnet\Customer\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\PG-DAC\DAC\Ms.NET\dotnet\Customer\DAL\bin\Debug\net7.0\DAL.dll
+D:\PG-DAC\DAC\Ms.NET\dotnet\Customer\DAL\bin\Debug\net7.0\DAL.pdb
+D:\PG-DAC\DAC\Ms.NET\dotnet\Customer\DAL\bin\Debug\net7.0\BOL.dll
+D:\PG-DAC\DAC\Ms.NET\dotnet\Customer\DAL\bin\Debug\net7.0\BOL.pdb
+D:\PG-DAC\DAC\Ms.NET\dotnet\Customer\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+D:\PG-DAC\DAC\Ms.NET\dotnet\Customer\DAL\obj\Debug\net7.0\DAL.dll
+D:\PG-DAC\DAC\Ms.NET\dotnet\Customer\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\PG-DAC\DAC\Ms.NET\dotnet\Customer\DAL\obj\Debug\net7.0\DAL.pdb
+D:\PG-DAC\DAC\Ms.NET\dotnet\Customer\DAL\obj\Debug\net7.0\ref\DAL.dll
